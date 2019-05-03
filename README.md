@@ -6,7 +6,11 @@ and before any other passed parameters. The code is kept to a minimal footprint.
 
 ## Installation
 
-    $ npm i --save countInterval
+    $ npm i -S count-interval
+
+or 
+
+    $ yarn add count-interval
 
 ## Usage
 
