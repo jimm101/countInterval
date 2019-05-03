@@ -1,0 +1,23 @@
+{
+  "name": "count-interval",
+  "version": "1.0.0",
+  "description": "setInterval replacement that only fires a fixed number of times",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "node index.test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimm101/countInterval.git"
+  },
+  "keywords": [
+    "setInterval"
+  ],
+  "author": "jimm101",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jimm101/countInterval/issues"
+  },
+  "homepage": "https://github.com/jimm101/countInterval#readme"
+}
