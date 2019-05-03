@@ -6,7 +6,7 @@ and before any other passed parameters. The code is kept to a minimal footprint.
 
 ## Installation
 
-    $ npm i --save firstInterval
+    $ npm i --save countInterval
 
 ## Usage
 
