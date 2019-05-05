@@ -1,6 +1,6 @@
 {
   "name": "count-interval",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "setInterval replacement that only fires a fixed number of times",
   "main": "index.js",
   "scripts": {
